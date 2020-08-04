@@ -1,6 +1,6 @@
 import React from 'react';
 import { render } from '@testing-library/react';
-import MenuItem from '../menu-item.component.jsx/menu-item.component';
+import MenuItem from '../menu-item/menu-item.component';
 
 import './directory.styles.scss'
 // needs to be a class because we need a state
